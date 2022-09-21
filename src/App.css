@@ -1,11 +1,11 @@
+*{
+  margin: 0;
+}
+
+.App{
+  background-color: #111;
+}
 .title{
   display: flex;
   padding-left: 10px;
-}
-body{
-  background-color: rgba(32, 33, 36,1);
-}
-
-.b_txt{
-  color: white;
 }

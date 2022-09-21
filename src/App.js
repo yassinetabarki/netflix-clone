@@ -9,7 +9,6 @@ function App() {
       {/* nav */}
       {/* banner */}
       <Banner/>
-      <h1 className='b_txt'>Hey Yassine</h1>
       <Row 
       title="NETFLIX ORIGINALS" 
       fetchUrl={requests.fetchNetflixOriginals}
